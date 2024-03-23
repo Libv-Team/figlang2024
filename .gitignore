@@ -1,0 +1,5 @@
+/finetune/
+/checkpoints/
+/data/
+/wandb/
+/result/
